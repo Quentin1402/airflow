@@ -1,0 +1,36 @@
+[2024-07-03T12:10:29.086+0200] {processor.py:161} INFO - Started process (PID=9529) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:10:29.087+0200] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-03T12:10:29.090+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.089+0200] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:10:29.247+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.246+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-03T12:10:29.252+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:10:29.495+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.494+0200] {override.py:1847} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2024-07-03T12:10:29.544+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.543+0200] {override.py:1847} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2024-07-03T12:10:29.587+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.586+0200] {override.py:1847} INFO - Created Permission View: can read on DAG:example_python_operator
+[2024-07-03T12:10:29.587+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.587+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:10:29.609+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.609+0200] {dag.py:3118} INFO - Creating ORM DAG for example_python_operator
+[2024-07-03T12:10:29.610+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:29.610+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-03T12:10:29.690+0200] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py took 0.611 seconds
+[2024-07-03T12:11:52.201+0200] {processor.py:161} INFO - Started process (PID=9583) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:11:52.202+0200] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-03T12:11:52.205+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:52.205+0200] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:11:52.306+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:52.306+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-03T12:11:52.307+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:11:52.342+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:52.341+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:11:52.370+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:52.370+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-03T12:11:52.502+0200] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py took 0.308 seconds
+[2024-07-03T12:13:09.308+0200] {processor.py:161} INFO - Started process (PID=9691) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:13:09.310+0200] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-03T12:13:09.313+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:09.312+0200] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:13:09.418+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:09.418+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-03T12:13:09.419+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:13:09.571+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:09.571+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:13:09.597+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:09.596+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-03T12:13:09.740+0200] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py took 0.438 seconds
+[2024-07-03T12:14:30.361+0200] {processor.py:161} INFO - Started process (PID=9827) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:14:30.363+0200] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-07-03T12:14:30.365+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:30.365+0200] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:14:30.552+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:30.551+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-07-03T12:14:30.553+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py
+[2024-07-03T12:14:30.612+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:30.611+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:14:30.628+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:30.628+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-07-03T12:14:30.743+0200] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_python_operator.py took 0.387 seconds

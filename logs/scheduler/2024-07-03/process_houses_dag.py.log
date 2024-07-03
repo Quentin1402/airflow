@@ -1,0 +1,53 @@
+[2024-07-03T12:10:03.778+0200] {processor.py:161} INFO - Started process (PID=9512) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:10:03.783+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:10:03.788+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:03.786+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:10:03.912+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:10:04.148+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.147+0200] {override.py:1847} INFO - Created Permission View: can edit on DAG:process_houses_dag
+[2024-07-03T12:10:04.194+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.193+0200] {override.py:1847} INFO - Created Permission View: can delete on DAG:process_houses_dag
+[2024-07-03T12:10:04.237+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.237+0200] {override.py:1847} INFO - Created Permission View: can read on DAG:process_houses_dag
+[2024-07-03T12:10:04.239+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.239+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:10:04.266+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.266+0200] {dag.py:3118} INFO - Creating ORM DAG for process_houses_dag
+[2024-07-03T12:10:04.286+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:10:04.286+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:10:04.381+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.625 seconds
+[2024-07-03T12:11:31.296+0200] {processor.py:161} INFO - Started process (PID=9565) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:11:31.298+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:11:31.302+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:31.301+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:11:31.330+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:11:31.368+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:31.367+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:11:31.411+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:11:31.410+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:11:31.528+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.273 seconds
+[2024-07-03T12:12:14.661+0200] {processor.py:161} INFO - Started process (PID=9602) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:14.663+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:12:14.667+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:14.666+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:14.710+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:14.747+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:14.747+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:12:14.783+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:14.783+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:12:14.993+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.338 seconds
+[2024-07-03T12:12:52.586+0200] {processor.py:161} INFO - Started process (PID=9662) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:52.587+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:12:52.589+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:52.589+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:52.606+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:12:52.627+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:52.627+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:12:52.729+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:12:52.728+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:12:52.828+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.247 seconds
+[2024-07-03T12:13:35.942+0200] {processor.py:161} INFO - Started process (PID=9733) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:13:35.944+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:13:35.947+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:35.946+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:13:35.986+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:13:36.017+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:36.017+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:13:36.047+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:13:36.047+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:13:36.120+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.190 seconds
+[2024-07-03T12:14:17.403+0200] {processor.py:161} INFO - Started process (PID=9802) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:17.405+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:14:17.406+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:17.406+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:17.437+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:17.471+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:17.471+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:14:17.503+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:17.503+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:14:17.598+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.201 seconds
+[2024-07-03T12:14:54.175+0200] {processor.py:161} INFO - Started process (PID=9870) to work on /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:54.177+0200] {processor.py:830} INFO - Processing file /mnt/c/airflow/dags/process_houses_dag.py for tasks to queue
+[2024-07-03T12:14:54.179+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:54.179+0200] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:54.221+0200] {processor.py:840} INFO - DAG(s) 'process_houses_dag' retrieved from /mnt/c/airflow/dags/process_houses_dag.py
+[2024-07-03T12:14:54.253+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:54.253+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-03T12:14:54.276+0200] {logging_mixin.py:188} INFO - [2024-07-03T12:14:54.276+0200] {dag.py:3954} INFO - Setting next_dagrun for process_houses_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-01 00:01:00+00:00
+[2024-07-03T12:14:54.335+0200] {processor.py:183} INFO - Processing /mnt/c/airflow/dags/process_houses_dag.py took 0.166 seconds
